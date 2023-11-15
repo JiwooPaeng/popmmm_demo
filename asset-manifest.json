@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/popmmm/static/css/main.9cb2a61e.css",
+    "main.js": "/popmmm/static/js/main.43dbbd60.js",
+    "static/js/787.575cf381.chunk.js": "/popmmm/static/js/787.575cf381.chunk.js",
+    "static/media/Star2.png": "/popmmm/static/media/Star2.d7505f1ca2ed074dd702.png",
+    "static/media/earth-rocket.png": "/popmmm/static/media/earth-rocket.b1f5cc0dca927cb04143.png",
+    "static/media/rocket.png": "/popmmm/static/media/rocket.4daa9211b857359d652a.png",
+    "static/media/stars.png": "/popmmm/static/media/stars.1da79a5c5706a87fa033.png",
+    "index.html": "/popmmm/index.html",
+    "main.9cb2a61e.css.map": "/popmmm/static/css/main.9cb2a61e.css.map",
+    "main.43dbbd60.js.map": "/popmmm/static/js/main.43dbbd60.js.map",
+    "787.575cf381.chunk.js.map": "/popmmm/static/js/787.575cf381.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9cb2a61e.css",
+    "static/js/main.43dbbd60.js"
+  ]
+}
